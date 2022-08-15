@@ -11,12 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
     "date-diff": "^1.0.2",
     "express": "^4.18.1",
     "form-data": "^4.0.0",
     "gettime": "^1.0.53",
     "jsonwebtoken": "^8.5.1",
     "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.7.5"
   }
